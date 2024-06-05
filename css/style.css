@@ -1,0 +1,39 @@
+
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    background-color: #F7ECDE;
+}
+
+
+.subbtn  {
+    color:white;
+    background-color: #BB4120;
+    width: 10%;
+}
+
+
+
+.title h1{
+    font-family: pacifico,cursive;
+}
+
+
+
+.subtitle p{
+    font-family: "Righteous", sans-serif;
+    color: #45A55A;
+    font-size: 25px;
+
+}
+
+
+  
